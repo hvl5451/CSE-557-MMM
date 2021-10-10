@@ -1,0 +1,8 @@
+
+NB: 8, gflops: 2.039864
+
+NB: 16, gflops: 2.272389
+
+NB: 32, gflops: 2.378067
+
+NB: 64, gflops: 2.143632
